@@ -1,5 +1,5 @@
 {
-"1":["yeet", "maður yeetaði"],
-"2":["kalli, maður á þakinu", "kalli var á þakinu, það var ekki góð hugmynd"],
-"3":["hjól?", """"""]
+"1":["yeet", "maður yeetaði","1.jpeg"],
+"2":["kalli, maður á þakinu", "kalli var á þakinu, það var ekki góð hugmynd","2.jpeg"],
+"3":["hjól?", """nokkri gaurar eiga hjól""", "3.jpeg"]
 }
